@@ -1,2 +1,2 @@
-#!/bin/bask
-chown betty:holberton*
+#!/bin/bash
+chown bettiy:holberton*
